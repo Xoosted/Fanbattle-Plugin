@@ -8,7 +8,7 @@ This plugin is for youtubers who want to do an event with their fans.
 4. Have fun!
 
 **Commands**
-/fb help ("Shows commands that you have access")
-/fb info ("Shows credits for this plugin development")
-/fb join ("Allows you to join an active Fan Battle")
-/fb leave ("Allows you to leave the Fan Battle that you've joined")
+1. /fb help ("Shows commands that you have access")
+2. /fb info ("Shows credits for this plugin development")
+3. /fb join ("Allows you to join an active Fan Battle")
+4. /fb leave ("Allows you to leave the Fan Battle that you've joined")
