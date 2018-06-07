@@ -1,10 +1,9 @@
 **Fan Battle Plugin Information**
 
 **How to use**
-1. Execute /fb to open the menu
-2. Select the gamemode for the event
-3. The server will announce "Fan Battle is now active! use /fb join"
-4. Have fun!
+1. Execute /fb start to start the event
+2. The server will announce "Fan Battle is now active! use /fb join"
+3. Have fun!
 
 **Commands**
 1. /fb help ("Shows commands that you have access")
