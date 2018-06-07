@@ -1,5 +1,4 @@
-#**Fan Battle Plugin Information**
-This plugin is for youtubers who want to do an event with their fans.
+**Fan Battle Plugin Information**
 
 **How to use**
 1. Execute /fb to open the menu
