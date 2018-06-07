@@ -6,5 +6,5 @@ author: Xoosted
 #commands:
  #cw:
   #description: "executes and starts a fan war"
-  #usage: "/cw"
-  #permission: "cw.command"
+  #usage: "/fb"
+  #permission: "fb.command"
