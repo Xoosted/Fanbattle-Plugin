@@ -7,7 +7,7 @@ This plugin is for youtubers who want to do an event with their fans.
 3. The server will announce "Fan Battle is now active! use /fb join"
 4. Have fun!
 
-#**Commands**
+#**_Commands_**
 /fb help ("Shows commands that you have access")
 /fb info ("Shows credits for this plugin development")
 /fb join ("Allows you to join an active Fan Battle")
