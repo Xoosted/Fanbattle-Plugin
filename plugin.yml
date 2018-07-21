@@ -12,7 +12,7 @@ author: Xoosted
  #fbinfo:
  #description: "shows more information about the plugin"
  #usage: "/fb info"
- #permission: "fb.command"
+ #permission: "fb.command.info"
  
  #fbstart:
  #description: "Allows you to start a fan battle"
@@ -22,9 +22,9 @@ author: Xoosted
  #fbjoin:
  #description: "Allows you to join an active Fan Battle event."
  #usage: "/fb join"
- #permission: "fb.command"
+ #permission: "fb.command.join"
  
  #fbleave:
  #description: "Allows you to leave an active Fab Battle event."
  #usage: "/fb leave"
- #permission: "fb.command"
+ #permission: "fb.command.leave"
